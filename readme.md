@@ -19,4 +19,4 @@ Just simple styled selector list replace for native select input
 jQuery('form.woocommerce-ordering select.orderby').kadaSelector();
 ```
 
-[![DEMO SIMPLE SELECT](https://github.com/vishnukumarpv/sooSimpleSelect-a-simple-select-ul-list/raw/master/Capture.JPG)] 
+[![DEMO SIMPLE SELECT](https://github.com/vishnukumarpv/sooSimpleSelect-a-simple-select-ul-list/raw/master/Capture.JPG)
